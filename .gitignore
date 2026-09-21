@@ -1,0 +1,12 @@
+# Кеш Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Налаштування редакторів
+.vscode/
+.idea/
+
+# Тимчасові файли ОС
+Thumbs.db
+.DS_Store
